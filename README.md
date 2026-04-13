@@ -1,5 +1,5 @@
 # Instalação automática do ambiente para WRF 4.6+
-Este script foi desenvolvido para instalar automaticamente as dependências mínimas para a construção do WRF com o compilador GNU, mpich, zlib, hdf5, netcdf-c, netcdf-fortran, jasper e libpng.
+Este script foi desenvolvido para instalar automaticamente as dependências mínimas para a construção do WRF com o compilador GNU 11.5, mpich, zlib, hdf5, netcdf-c, netcdf-fortran, jasper e libpng.
 
 ### Como usar:
 
